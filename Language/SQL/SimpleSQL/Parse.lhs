@@ -2489,7 +2489,7 @@ not, leave them unreserved for now
 >     ,"table"
 >     ,"tablesample"
 >     ,"then"
->     ,"time"
+>--     ,"time"
 >     ,"timestamp"
 >     ,"timezone_hour"
 >     ,"timezone_minute"
